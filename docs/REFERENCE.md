@@ -1,7 +1,6 @@
 # AI-Coach-App- source reference
 
-
-Source reviewed: [`fd911cedb767`](https://github.com/noel-ult/AI-Coach-App-/commit/fd911cedb76767bd4449c3106cfa08db64ed15dc).
+Source reviewed: [`378a6b541a71`](https://github.com/noel-ult/AI-Coach-App-/commit/378a6b541a713a8536197ebe41c3a3c232b693cd).
 
 This reference records the checked-in source, scripts, configuration names, and route declarations. It is a navigation aid; service availability and successful test execution require separate verification.
 
@@ -41,6 +40,7 @@ Paths are **as declared in each source file**. Router/blueprint mount prefixes f
 Historical plans/reports describe their own revision; use current source when they disagree.
 
 - [ARCHITECTURE.md](../ARCHITECTURE.md)
+- [CONTRIBUTING.md](../CONTRIBUTING.md)
 - [ENHANCED_FEATURES_SUMMARY.md](../ENHANCED_FEATURES_SUMMARY.md)
 - [FEATURES_IMPLEMENTED.md](../FEATURES_IMPLEMENTED.md)
 - [MIGRATION_SUMMARY.md](../MIGRATION_SUMMARY.md)
@@ -48,6 +48,8 @@ Historical plans/reports describe their own revision; use current source when th
 - [README.md](../README.md)
 - [STARTUP_CHECKLIST.md](../STARTUP_CHECKLIST.md)
 - [backend/requirements.txt](../backend/requirements.txt)
+- [docs/PROJECT_GUIDE.md](../docs/PROJECT_GUIDE.md)
+- [docs/REFERENCE.md](../docs/REFERENCE.md)
 - [mobile-app/MOBILE_README.md](../mobile-app/MOBILE_README.md)
 - [mobile-app/README.md](../mobile-app/README.md)
 - [mobile-app/assets/README.md](../mobile-app/assets/README.md)
